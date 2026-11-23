@@ -1,6 +1,6 @@
 # 🎲 Dice Roll
 
-A website where two players can enter their names and roll a pair of dice. The player who gets the highest number wins. The dice roll is powered by JavaScript code that generates a random number between 1 and 6. [Access here](https://mincostta.github.io/rolagem-dados/).
+A website where two players can enter their names and roll a pair of dice. The player who gets the highest number wins. The dice roll is powered by JavaScript code that generates a random number between 1 and 6.
 
 ## ⚙️ Technologies Used
 - **Languages**: HTML, CSS, JavaScript
