@@ -1,14 +1,15 @@
-# 🎲 Rolagem de Dados
-Website onde dois jogadores podem inserir seus nomes e efetuar uma rolagem de dados. O jogador que obter o maior número, vence. A rolagem é feita através de um código Javascript que fornece um número aleatório de 1 a 6. [Acesse aqui](https://mincostta.github.io/rolagem-dados/).
+# 🎲 Dice Roll
 
-## ⚙️ Tecnologias Usadas
-- **Linguagens**: HTML, CSS, Javascript
-- **Ferramentas**: Git
+A website where two players can enter their names and roll a pair of dice. The player who gets the highest number wins. The dice roll is powered by JavaScript code that generates a random number between 1 and 6. [Access here](https://mincostta.github.io/rolagem-dados/).
 
-## 🔧 Funcionamento
-Assim que o botão de cálculo é acionado, o código em Javascript irá gerar um número aleatório entre 1 e 100. O botão só pode ser acionado após o usuário ter digitado dois nomes, com a condição de ambos não poderem ser iguais. A porcentagem prontamente é mostrada, acompanhada de um coração que represente o quão bom é aquele resultado.
+## ⚙️ Technologies Used
+- **Languages**: HTML, CSS, JavaScript
+- **Tools**: Git
 
-## ⚙️ Evento de Clique no Botão
+## 🔧 How It Works
+Once the calculate button is clicked, the JavaScript code generates a random number between 1 and 100. The button can only be clicked after the user has entered two names, which must be different from each other. The resulting percentage is displayed instantly, accompanied by a heart emoji representing how good the result is.
+
+## ⚙️ Button Click Event
 
 ```javascript
     rolar.addEventListener('click', function() {
